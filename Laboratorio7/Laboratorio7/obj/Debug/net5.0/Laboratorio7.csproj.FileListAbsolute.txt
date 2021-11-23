@@ -1,0 +1,4 @@
+C:\PROJETOS\CYBERTRON\Laboratorio7\Laboratorio7\Laboratorio7\obj\Debug\net5.0\Laboratorio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio7\Laboratorio7\Laboratorio7\obj\Debug\net5.0\Laboratorio7.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio7\Laboratorio7\Laboratorio7\obj\Debug\net5.0\Laboratorio7.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio7\Laboratorio7\Laboratorio7\obj\Debug\net5.0\Laboratorio7.csproj.CoreCompileInputs.cache
